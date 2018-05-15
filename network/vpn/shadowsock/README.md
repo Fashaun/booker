@@ -1,0 +1,1 @@
+# For shadowsocks sharing
